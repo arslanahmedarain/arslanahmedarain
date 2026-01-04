@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arslan Ahmed Arain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan-ahmed-arain&label=Profile%20views&color=0e75b6&style=flat" alt="arslan-ahmed-arain" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslan-ahmed-arain" alt="arslan-ahmed-arain" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Firebase**
 
 - 📫 How to reach me **arslanyaseenwali@gmail.com**
 
